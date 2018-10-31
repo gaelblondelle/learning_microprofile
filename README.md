@@ -1,2 +1,2 @@
 # learning_microprofile
-My
+My place to play while learning microprofile
